@@ -30,4 +30,4 @@
 
 ---
 
-*Currently pursuing an **MEng. in Data & AI at EFREI** and the **MVA 2025-2026 cohort (Guest Auditor)** , following **research work at the EFREI Research Lab**.*
+*Currently pursuing an **MEng. in Data & AI at EFREI** and the **MVA ENS Paris-Saclay (Guest Auditor)** , following **research work at the EFREI Research Lab**.*
