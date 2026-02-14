@@ -8,7 +8,7 @@
 ---
 
 ### Highlights
-* 🛡️ **Microsoft RAG Hackathon** – Developed secure Retrieval-Augmented Generation systems for confidential data and privacy-preserving information retrieval.
+* 🛡️ **Microsoft x Finelog-Biseum RAG Hackathon** – Developed secure Retrieval-Augmented Generation systems for confidential data and privacy-preserving information retrieval.
 * 🧠 **Neuro-AI for CLS** – Designing bio-inspired architectures to tackle catastrophic forgetting via Wake-Sleep/DDPM frameworks and latent replay @ EFREI Research Lab.
 * 📉 **Double Descent & Loss Landscapes** – Investigating the generalization paradox and the influence of SGD implicit bias on minima flatness @ MVA
 ---
