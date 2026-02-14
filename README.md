@@ -1,9 +1,9 @@
 ## Hi, I'm Adam 👋
 
-🎓 **Research Student for EFREI Research Lab** | MEng. in **Data & Artificial Intelligence** at EFREI - Paris Panthéon-Assas
-🔬 **Guest Auditor** at **ENS Paris-Saclay (MVA)** in the Advanced Deep Learning program
-🚀 Former **AI Research Scientist Intern** at **Thales**
-🔥 Passionate about **loss landscapes**, **neuro-AI**, and **causal reasoning** for model robustness
+🎓 **Research Student for EFREI Research Lab** | MEng. in **Data & Artificial Intelligence** at EFREI - Paris Panthéon-Assas <br>
+🔬 **Guest Auditor** at **ENS Paris-Saclay (MVA)** in the Advanced Deep Learning program <br>
+🚀 Former **AI Research Scientist Intern** at **Thales** <br>
+🔥 Passionate about **loss landscapes**, **neuro-AI**, and **causal reasoning** for model robustness <br>
 
 ---
 
