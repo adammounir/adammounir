@@ -16,7 +16,7 @@
 ### ⚙️ Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,java,scala,matlab,mysql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
 </p>
 
 ---
