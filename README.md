@@ -1,6 +1,6 @@
 ## Hi, I'm Adam 👋
 
-🎓 MEng. in **Data & Artificial Intelligence** at EFREI - Paris Panthéon-Assas | Research Student for **EFREI Research Lab**  <br>
+🎓 MEng. in **Data & Artificial Intelligence** at EFREI - Paris Panthéon-Assas <br>
 🔬 Guest Auditor at **ENS Paris-Saclay (MVA)** in the Advanced Deep Learning program <br>
 🚀 Former AI Research Scientist Intern at **Thales** <br>
 🔥 Passionate about **loss landscapes**, **neuro-AI**, and **causal reasoning** for model robustness <br>
@@ -8,9 +8,9 @@
 ---
 
 ### Highlights
-* 🛡️ **Microsoft x Finelog-Biseum RAG Hackathon** – Developed secure Retrieval-Augmented Generation systems for confidential data and privacy-preserving information retrieval.
-* 🧠 **NullFlow** – Designing bio-inspired architectures to tackle catastrophic forgetting via Wake-Sleep/DDPM frameworks and latent replay 
-* 📉 **Double Descent & Loss Landscapes** – Investigating the generalization paradox and the influence of SGD implicit bias on minima flatness *@ MVA*
+* 🛡️ **Microsoft x Finelog-Biseum RAG Hackathon** : Developed secure Retrieval-Augmented Generation systems for confidential data and privacy-preserving information retrieval.
+* 🧠 **NullFlow** : Designing bio-inspired architectures to tackle catastrophic forgetting via Wake-Sleep/DDPM frameworks and latent replay 
+* 📉 **Double Descent & Loss Landscapes** : Investigating the generalization paradox and the influence of SGD implicit bias on minima flatness *@ MVA*
 ---
 
 ### ⚙️ Tech & Tools
