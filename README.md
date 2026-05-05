@@ -1,4 +1,4 @@
-## Hi, I'm Adam 👋
+## Hi, I'm Adam 👋 <br>
 🎓 MEng. in **Data & Artificial Intelligence** at EFREI - Paris Panthéon-Assas <br>
 🔬 Guest Auditor at **ENS Paris-Saclay (MVA)** in the Advanced Deep Learning program <br>
 🧠 AI Research Intern at **Inria - TAU (Université Paris-Saclay)** on EEG decoding for Braindecode <br>
