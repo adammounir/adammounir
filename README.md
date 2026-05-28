@@ -2,7 +2,8 @@
 
 🎓 MEng. in **Data & Artificial Intelligence** at EFREI - Paris Panthéon-Assas   
 🧠 AI Research Intern at **Inria x Yneuro** on EEG decoding for Braindecode
-🔥 Working on Artificial Intelligence applied to **Neuroscience**
+🔥 Working on Artificial Intelligence applied to **Neuroscience**   
+
 
 ---
 
