@@ -32,4 +32,4 @@
 
 ---
 
-*Currently AI Research Intern at **Inria - TAU (Université Paris-Saclay)** working on EEG decoding, while finishing my **MEng. in Data & AI at EFREI** and attending the **MVA ENS Paris-Saclay (Guest Auditor)**.*
+*Currently AI Research Intern at **Inria - TAU (Université Paris-Saclay)** working on EEG decoding, finishing my **MEng. in Data & AI at EFREI**.*
