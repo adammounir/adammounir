@@ -1,15 +1,13 @@
 ## Hi, I'm Adam 👋
 
-🎓 MEng. in **Data & Artificial Intelligence** at EFREI - Paris Panthéon-Assas   
-🧠 AI Research Intern at **Inria x Yneuro** on EEG decoding for Braindecode
-
-
+🎓 MEng. in **Data & Artificial Intelligence** at EFREI - Paris Panthéon-Assas    
+🧠 AI Research Intern at **Inria x Yneuro** on EEG decoding for [Braindecode](https://braindecode.org/stable/index.html)
 
 ---
 
 ### Highlights
 
-* 🧬 **Inria - TAU x Yneuro (Braindecode)** : Researching deep-learning architectures (Transformers, GNNs, Riemannian models) for end-to-end EEG decoding; co-organizing the **NeurIPS 2026 EEG Decoding Competition** with Meta and top academic labs.
+* 🧬 **Inria - TAU x Yneuro ([Braindecode](https://braindecode.org/stable/index.html))** : Researching deep-learning architectures (Transformers, GNNs, Riemannian models) for end-to-end EEG decoding; co-organizing the **NeurIPS 2026 EEG Decoding Competition** with Meta and top academic labs.
 * 🛡️ **Microsoft x Finelog-Biseum RAG Hackathon** : Developed secure Retrieval-Augmented Generation systems for confidential data and privacy-preserving information retrieval.
 * 🧠 **NullFlow** : Designing bio-inspired architectures to tackle catastrophic forgetting via Wake-Sleep/DDPM frameworks and latent replay
 
