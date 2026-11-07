@@ -1,7 +1,7 @@
 ## Hi, I'm Adam 👋
 
 🎓 **Artificial Intelligence** student at CentraleSupélec   
-🧠 AI Research Intern at **Inria x Yneuro** on EEG decoding for [Braindecode](https://braindecode.org/stable/index.html): Researching deep-learning architectures (Transformers, GNNs, Riemannian models) for end-to-end EEG decoding, Working on Neural Architecture growth
+🧠 AI Research Intern at **Inria x Yneuro** on Time-Series decoding for [Braindecode](https://braindecode.org/stable/index.html): Researching deep-learning architectures (Transformers, GNNs, Riemannian models) for end-to-end EEG decoding, Working on Neural Architecture growth
 
 ---
 
